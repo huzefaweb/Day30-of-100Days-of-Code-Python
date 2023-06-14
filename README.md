@@ -9,3 +9,6 @@
 * json.dump
 * json.load
 * json.update
+# Password Manager Version 2
+* handling data using data file
+* could search for already inserted password
